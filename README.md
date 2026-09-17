@@ -1,18 +1,25 @@
-# 🐍 Python: Fundamentos e Primeiros Passos
+# 🐍 Python: Infográficos e Estudos
 
-Este repositório armazena meus resumos visuais e infográficos focados na evolução dos meus estudos em Python.
-
-## 📊 Módulo 01: Fundamentos
-
-Abaixo está o infográfico resumo cobrindo a origem da linguagem, ferramentas essenciais de desenvolvimento e conceitos iniciais de variáveis e boas práticas (PEP 8):
-
-![Infográfico Fundamentos Python](Fundamentos_Python.png)
-
-### 📌 Tópicos abordados:
-- **Origem:** Criação por Guido van Rossum em 1991 com foco em legibilidade.
-- **Ambientes e IDEs:** PyCharm, VS Code, Anaconda e Google Colab.
-- **Boas Práticas (PEP 8):** Padrões de nomenclatura (snake_case para variáveis/funções, CamelCase para classes) e guia de identação.
-- **Tipagem e Memória:** Como as variáveis alocam espaço na RAM e a tipagem automática do interpretador (`int`, `str`, `float`, `bool`).
+Bem-vindo ao meu repositório de resumos visuais em Python! Este espaço consolida meu aprendizado na linguagem através de infográficos autorais focados em clareza, lógica e prática.
 
 ---
-📫 Sinta-se à vontade para acompanhar minha evolução na programação!
+
+## 📚 Trilha de Estudos
+
+| Módulo | Tópico | Status | Infográfico |
+| :--- | :--- | :---: | :---: |
+| **Módulo 01** | Fundamentos e Primeiros Passos | 🟢 Concluído | [Ver Infográfico](Fundamentos_Python.png) |
+| **Módulo 02** | Tomada de Decisão (Condicionais) | 🟢 Concluído | [Ver Infográfico](Decisao_na_Programacao.png) |
+| **Módulo 03** | Estruturas de Repetição (Loops) | ⚪ Planejado | *Em breve* |
+
+---
+
+### 🔍 O que abrange o Módulo 02:
+* **O Conceito de Decisão:** Como os programas escolhem caminhos (analogia com rotas e semáforos).
+* **Comparação de Valores:** Operadores relacionais (`==`, `!=`, `>`, `<`, `>=`, `<=`).
+* **Estruturas Lógicas:** Uso de `if`, `elif` e `else`.
+* **Lógica Booleana:** Combinação de condições utilizando operadores lógicos (`and`, `or`, `not`).
+* **Exemplo Prático:** Lógica aplicada em sistemas de bilheteria e faixas etárias.
+
+---
+📫 Sinta-se à vontade para acompanhar e explorar a evolução dos meus estudos!
