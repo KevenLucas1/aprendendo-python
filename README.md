@@ -9,7 +9,7 @@ Bem-vindo ao meu repositório de resumos visuais em Python! Este espaço consoli
 | Módulo | Tópico | Status | Infográfico |
 | :--- | :--- | :---: | :---: |
 | **Módulo 01** | Fundamentos e Primeiros Passos | 🟢 Concluído | [Ver Infográfico](Fundamentos_Python.png) |
-| **Módulo 02** | Tomada de Decisão (Condicionais) | 🟢 Concluído | [Ver Infográfico](Decisao_na_Programacao.png) |
+| **Módulo 02** | Tomada de Decisão (Condicionais) | 🟢 Concluído | [Ver Infográfico](Decisão_na_Programação.png) |
 | **Módulo 03** | Estruturas de Repetição (Loops) | ⚪ Planejado | *Em breve* |
 
 ---
